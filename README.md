@@ -20,8 +20,9 @@ ResNet50 is a deep residual network and a very good architecture with 50 layers 
 Test Accuracy of the model created using transfer learning after 30 epochs: 77% (649/836)
 
 ## Predicting Dog Breed with the Transfer Learning Model
+
 Sample results:
-_____________________________________________________________________________________________
+
 <img src='images/Beagle_01182.jpg' width="300"> 
 
 Output class: **Beagle** 
